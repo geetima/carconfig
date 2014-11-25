@@ -1,0 +1,30 @@
+Ford/Wagon/18445
+Color,Fort Knox Gold Clearcoat Metallic,0
+Color,Liquid Grey Clearcoat Metallic,0
+Color,Infra-Red Clearcoat,0
+Color,Grabber Green Clearcoat Metallic,0
+Color,Sangria Red Clearcoat Metallic,0
+Color,French Blue Clearcoat,0
+Color,Metallic,0
+Color,Twilight Blue Clearcoat Metallic,0
+Color,CD Silver Clearcoat Metallic,0
+Color,Pitch Black Clearcoat,0
+Color,Cloud 9 White Clearcoat,0
+
+Color,Cloud 9 White Clearcoat,IamInvalidNumber
+Color,Cloud 9 White Clearcoat
+
+Transmission,automatic,0
+Transmission,manual,-815
+
+
+Brakes/Traction Control,Standard,0
+Brakes/Traction Control,ABS,400
+Brakes/Traction Control,ABS with Advance Trac, 1625
+
+Side Impact Air Bags, Present, 350
+Side Impact Air Bags, Not Present, 0
+
+
+Power Moonroof, Present, 595
+Power Moonroof, Not Present, 0
